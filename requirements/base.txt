@@ -1,0 +1,8 @@
+prefect
+pandera
+pandas
+numpy
+requests
+sqlalchemy
+python-dotenv
+pyarrow

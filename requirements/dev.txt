@@ -1,0 +1,6 @@
+-r base.txt
+pytest
+pytest-cov
+black
+flake8
+ipykernel

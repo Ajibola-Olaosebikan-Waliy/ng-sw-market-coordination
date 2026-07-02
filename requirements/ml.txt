@@ -1,0 +1,9 @@
+-r base.txt
+scikit-learn
+matplotlib
+seaborn
+EOFcat > requirements/ml.txt << 'EOF'
+-r base.txt
+scikit-learn
+matplotlib
+seaborn
